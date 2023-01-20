@@ -385,7 +385,7 @@ border-bottom: 1px solid #eee;
 .contact .info .link{
     display: block;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 800;
     color: var(--main-color);
     margin-bottom: 15px;
